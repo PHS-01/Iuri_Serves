@@ -1,0 +1,14 @@
+@font-face{
+    font-family: '04B_30__';
+    src: url("/Fonts/Fonts_Files/04B_30__.TTF")format('truetype');
+}
+
+@font-face{
+    font-family: 'Mario-Kart-DS';
+    src: url("/Fonts/Fonts_Files/Mario-Kart-DS.ttf")format('truetype');
+}
+
+@font-face{
+    font-family: 'Minecraft';
+    src: url("/Fonts/Fonts_Files/Minecraft.ttf")format('truetype');
+}
